@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/bin/Debug/net5.0/console-programlama.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/bin/Debug/net5.0/console-programlama.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/bin/Debug/net5.0/ref/console-programlama.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/bin/Debug/net5.0/console-programlama.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/obj/Debug/net5.0/console-programlama.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/obj/Debug/net5.0/console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/obj/Debug/net5.0/console-programlama.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/obj/Debug/net5.0/console-programlama.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/obj/Debug/net5.0/ref/console-programlama.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/obj/Debug/net5.0/console-programlama.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/console-programlama/obj/Debug/net5.0/console-programlama.genruntimeconfig.cache
